@@ -21,9 +21,11 @@ DNS_SERVER=dns.comss.one
 DNS для Xbox:
 DNS_SERVER=xbox-dns.ru
 
-Запуск через терминал:
+Запуск через Action в модуле. (при первом запуске создаст нужные файлв в /sdcard/Android/dnswatchdogchecker
 
+Или через Терминал
 sh /system/bin/dns_watch_dog_checker.sh
+
 
 Полный результат проверки появится в терминале и сохранится в файле:
 /sdcard/Android/dnswatchdogchecker/dns_check_result.txt
