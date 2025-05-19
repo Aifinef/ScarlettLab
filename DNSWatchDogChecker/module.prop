@@ -1,7 +1,7 @@
 id=dns_watch_dog_checker
 name=DNS Watch Dog Checker
 version=v1.0-beta
-versionCode=1
+versionCode=3
 author=Aifinef
 description=Universal DNS checker with custom DNS support and rule generation. Run via terminal or Magisk action.
 minMagisk=21000

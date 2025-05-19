@@ -1,6 +1,6 @@
 {
-  "version": "1.0-beta",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/Aifinef/ScarlettLab/releases/download/v1.0-beta/DNSWatchDogChecker.zip",
-  "changelog": "beta-версия модуля DNS Watch Dog Checker. Проверка разных DNS, поддержка персональных и публичных серверов, генерация hosts, чекер для обхода ИИ-блокировок в РФ. Цветная индикация только при запуске через терминал."
+  "version": "v1.0-beta",
+  "versionCode": 3,
+  "zipUrl": "https://github.com/Aifinef/ScarlettLab/releases/download/v1.2/DNSWatchDogChecker.zip",
+  "changelog": "Исправления, обновления, новая версия модуля."
 }
